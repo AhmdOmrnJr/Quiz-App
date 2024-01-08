@@ -1,2 +1,2 @@
 # Quiz-App
-using Js OPP
+using Js OOP
